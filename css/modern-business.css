@@ -1,0 +1,195 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+.img-responsive{
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+/*Menu bar section*/
+.nav-color{
+  background-color: #006a9c;
+}
+
+.menu-item-size{
+  font: 16px "Open Sans";
+}
+
+.sign-in{
+  height: 40px;
+  width: 80px;
+  border-radius: 50px;
+  background-color: #00a0da;
+  box-shadow: 2px 3px 3px 0px #004b6f;
+}
+
+/*Banner section*/
+
+.sign-view{
+  font: italic 50px Vijaya;
+  padding-bottom: 85px;
+}
+
+/*About Us section*/
+.about-us{
+  text-align: center;
+  font: 36px "Open Sans";
+  color: #0087be;
+}
+
+/*Service Us*/
+.service-us{
+  text-align: center;
+  font: 36px "Open Sans";
+  color: #0087be;
+}
+
+/*Client Section*/
+.review{
+  border-radius: 50px;
+  margin-top: 50px;
+}
+
+.review-img{
+  border-radius: 80px;
+}
+
+.review-name{
+  font: bold 20px "Open Sans";
+  color: #7cddff;
+}
+
+.review-response{
+  padding-bottom: 25%;
+}
+
+.client-us{
+  text-align: center;
+  font: 36px Arial;
+  color: #0087be;
+}
+
+.client{
+  height: 425px;
+  background-color: #00aae6;
+}
+
+.client-say{
+  border-radius: 50px;
+  background-color: #00a0da;
+  box-shadow: 2px 3px 3px 0px #004b6f;
+}
+
+/*Product and etc. section*/
+.product{
+  font: 22px "Open Sans";
+  color: #0087be;
+}
+
+.product-des{
+  font: 16px "Open Sans";
+}
+
+.card-color{
+  color: #9dff31;
+}
+
+/*Social media section*/
+
+.social-logo:hover{
+  padding: 3px;
+  box-shadow: #545b62 0px 10px 10px 0px;
+  border-radius: 50%;
+  background-color: #5ae6c7;
+}
+
+/*About Section*/
+
+.about-head{
+  /*background-image: url("../images/about-img.png");*/
+  background-color: #02a8d1;
+  height: 405px;
+  width: 100%;
+}
+
+.about-write{
+  font: 72px "Open Sans";
+  margin: auto;
+  text-align: center;
+  margin-top: 170px;
+  color: white;
+}
+
+.about-mid{
+  /*background-image: url("../images/about-img.png");*/
+  background-color: #e4e4e4;
+  height: 470px;
+  width: 100%;
+}
+
+.about-write-mid{
+  font: 16px "Open Sans";
+  margin-top: 75px;
+  margin-bottom: 75px;
+  color: black;
+}
+
+/*Contact Section*/
+
+.contact-head{
+  /*background-image: url("../images/about-img.png");*/
+  background-color: #02a8d1;
+  height: 405px;
+  width: 100%;
+}
+
+.contact-write{
+  font: 72px "Open Sans";
+  margin: auto;
+  text-align: center;
+  margin-top: 170px;
+  color: white;
+}
+
+.contact-mid{
+  /*background-image: url("../images/about-img.png");*/
+  background-color: #e4e4e4;
+  height: 450px;
+  width: 100%;
+}
+
+
+.submit{
+  height: 40px;
+  width: 85px;
+  border-radius: 5px;
+  background-color: #01a9e7;
+  box-shadow: 2px 3px 3px 0px #004b6f;
+}
